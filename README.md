@@ -41,3 +41,8 @@
 ## My Trending Repos 💻
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mrronny10&repo=tindog-web&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/mrronny10/tindog-web)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mrronny10&repo=meri-kaksha&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/mrronny10/meri-kaksha)
+ 
+ ------
+ Credit: [mrronny10](https://github.com/mrronny10)
+
+Last Edited on: 25/03/2023
