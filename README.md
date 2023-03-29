@@ -7,4 +7,4 @@
  ![](https://github-readme-streak-stats.herokuapp.com/?user=mrronny10)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrronny10)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 How to reach me **mail here**
+
