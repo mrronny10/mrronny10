@@ -42,7 +42,22 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mrronny10&repo=tindog-web&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/mrronny10/tindog-web)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mrronny10&repo=meri-kaksha&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/mrronny10/meri-kaksha)
  
- ------
- Credit: [mrronny10](https://github.com/mrronny10)
+ <a href="twitter_url">
+  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="linkedin_url">
+  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/mrronny10">
+  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="instagram_url">
+  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="hackerrank_url">
+  <img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<br><br>
 
-Last Edited on: 25/03/2023
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/mrronny10/count.svg)
