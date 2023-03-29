@@ -9,8 +9,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrronny10&show_icons=true&locale=en&layout=compact" alt="mrronny10" /></p>
 
 <Br>
-<hr>
-<Br>
+
 ## My Trending Repos 💻
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mrronny10&repo=tindog-web&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/mrronny10/tindog-web)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mrronny10&repo=meri-kaksha&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/mrronny10/meri-kaksha)
