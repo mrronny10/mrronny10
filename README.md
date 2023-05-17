@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 
 <h1 align="center">Hi 👋, I'm Ronak Sen</h1>
-<h3 align="center">FRONTEND WEB DEVELOPER</h3>
+<h3 align="center">FULL STACK WEB DEVELOPER</h3>
 
 <Br>
  
